@@ -1,0 +1,82 @@
+STUDY_ID,STAT_ID,TARGET_LAT,TARGET_LON,LOC_DESC
+TP-OUT,133,42.3665135,-70.9874731,"Cottage Park Yacht Club, red Nun #4"
+TP-OUT,134,42.366,-70.975833,The Basin - green can #3
+BHWQM,130,42.363333,-70.987333,"Winthrop Harbor, green can #1"
+CSORWM,130,42.363333,-70.987333,"Winthrop Harbor, green can #1"
+TP-OUT,130,42.363333,-70.987333,"Winthrop Harbor, green can #1"
+BHWQM,129,42.354416,-70.978295,"Deer Island Flats, Winthrop Harbor Approach, green can #5"
+TP-OUT,129,42.354416,-70.978295,"Deer Island Flats, Winthrop Harbor Approach, green can #5"
+TP-OUT,126,42.3490021,-70.9619524,Outfall #005
+TP-OUT,173,42.347239,-70.9599143,End of the DI water transportation Dock
+TP-OUT,147,42.3434711,-70.956362,Deer Island Outfall #004
+TP-OUT,146,42.341667,-70.956167,Deer Island Outfall #002 at break
+TP-OUT,160,42.339,-70.9535,Deer Island Outfall #001 - east of Deer Island Light
+TP-OUT,159,42.338833,-70.9555,Deer Island Outfall #002
+BHWQM,105,42.3339441,-70.9472938,Nixes Mate - green can #15
+CSORWM,105,42.3339441,-70.9472938,Nixes Mate - green can #15
+TP-OUT,105,42.3339441,-70.9472938,Nixes Mate - green can #15
+BHWQM,44,42.3335,-71.001167,"North Dorchester Bay, mouth, day marker #5"
+CSORWM,44,42.3335,-71.001167,"North Dorchester Bay, mouth, day marker #5"
+BHWQM,118,42.332833,-70.937667,Outer Lovell Island - red nun #8 near Nixes Mate
+CSORWM,118,42.332833,-70.937667,Outer Lovell Island - red nun #8 near Nixes Mate
+TP-OUT,118,42.332833,-70.937667,Outer Lovell Island - red nun #8 near Nixes Mate
+BHWQM,106,42.3325,-70.959,"Long Island, green can #17"
+CSORWM,106,42.3325,-70.959,"Long Island, green can #17"
+CSORWM,29,42.3321667,-71.0108333,"Dorchester Bay, off Castle Island"
+CSORWM,31,42.3316667,-71.0238333,"Dorchester Bay, Carson Bch Kellys Landing"
+CSORWM,104,42.3307,-70.9529,Former Sludge Outfall Site
+CSORWM,32,42.3294009,-71.0308802,"Dorchester Bay, Carson Bch off N St."
+CSORWM,34,42.3288333,-71.0415,"Dorchester Bay, Carson Beach off BOS084"
+CSORWM,35,42.3276667,-71.045,"Dorchester Bay, Carson Beach off Headworks"
+CSORWM,107,42.3275,-70.9821,Spectacle Island green can # 1
+CSORWM,33,42.327167,-71.036333,"North Dorchester Bay, Carson Beach, off L St."
+CSORWM,36,42.3265,-71.0458333,"North Dorchester Bay, Carson Beach, off McCormack Bathhouse, BOS086"
+CSORWM,30,42.3258333,-71.0128333,"Dorchester Bay, off City Point"
+CSORWM,43,42.3258333,-70.9941667,"Dorchester Bay, off Spectacle Island"
+CSORWM,37,42.3241667,-71.0448333,"Dorchester Bay, Carson Beach off Blockhouse"
+BHWQM,38,42.321667,-71.021333,North Dorchester Bay
+CSORWM,38,42.321667,-71.021333,North Dorchester Bay
+CSORWM,46,42.3145,-70.9903333,Quincy near Sculpin Ledge
+BHWQM,115,42.312333,-70.937667,"Quincy, green/red buoy Nantasket Rd"
+CSORWM,115,42.312333,-70.937667,"Quincy, green/red buoy Nantasket Rd"
+CSORWM,39,42.3111638,-71.0402167,"South Dorchester Bay, Fox Point, at UMass-Boston dock"
+TP-OUT,175,42.310392,-70.977262,"Outer, southern tip of Long Is."
+CSORWM,45,42.3096667,-70.9993333,Quincy off Thompson Island
+BHWQM,48,42.3094877,-70.9898721,"South Dorchester Bay, off Moon Island"
+CSORWM,48,42.3094877,-70.9898721,"South Dorchester Bay, off Moon Island"
+TP-OUT,48,42.3094877,-70.9898721,"South Dorchester Bay, off Moon Island"
+CSORWM,39.1,42.3088287,-71.0439426,"Dorchester Bay, Fox Point at UMass Dock"
+BHWQM,84,42.307833,-71.033333,"South Dorchester Bay, Columbia Point and Savin Hill Cove, at buoy #12"
+CSORWM,84,42.307833,-71.033333,"South Dorchester Bay, Columbia Point and Savin Hill Cove, at buoy #12"
+BHWQM,140,42.305833,-71.0405,"South Dorchester Bay, near Columbia Point and Savin Hill Cove"
+BHWQM,141,42.305,-70.930833,"North of Peddocks Island, near Hull Gut"
+CSORWM,81,42.296078,-70.9559742,"Quincy, Nut I. outfall 102, near sunken ledge daymark"
+TP-OUT,81,42.296078,-70.9559742,"Quincy, Nut I. outfall 102, near sunken ledge daymark"
+CSORWM,82,42.2950823,-70.9502795,Quincy Nut Island Outfall 101 off Peddocks Island
+TP-OUT,82,42.2950823,-70.9502795,Quincy Nut Island Outfall 101 off Peddocks Island
+BHWQM,117,42.290167,-70.914167,"Hingham/Hull Bay, green can #1"
+CSORWM,117,42.290167,-70.914167,"Hingham/Hull Bay, green can #1"
+TP-OUT,117,42.290167,-70.914167,"Hingham/Hull Bay, green can #1"
+CSORWM,49,42.2888333,-71.0028333,"Quincy, red buoy #2 near Squantum"
+BHWQM,139,42.28667,-70.968333,"Quincy Bay, off Hangmans Island"
+TP-OUT,139,42.28667,-70.968333,"Quincy Bay, off Hangmans Island"
+CSORWM,79,42.2834774,-70.9560824,"Nut Island Outfall 103, short outfall"
+TP-OUT,79,42.2834774,-70.9560824,"Nut Island Outfall 103, short outfall"
+TP-OUT,179,42.281544,-70.953972,"Nut Island shoreline, End of Wharf near Outfall #103"
+BHWQM,47,42.2805,-71.007,"Quincy Bay, Wollaston Beach, off storm drains 7 and 8 at Sachem St."
+CSORWM,47,42.2805,-71.007,"Quincy Bay, Wollaston Beach, off storm drains 7 and 8 at Sachem St."
+TP-OUT,47,42.2805,-71.007,"Quincy Bay, Wollaston Beach, off storm drains 7 and 8 at Sachem St."
+CSORWM,76,42.2771667,-70.9986667,"Quincy, off Wollaston Beach"
+BHWQM,78,42.2765,-70.9693333,Quincy off of Houghs Neck
+CSORWM,78,42.2765,-70.9693333,Quincy off of Houghs Neck
+BHWQM,80,42.2755,-70.944833,"Hingham Bay, Quincy Yacht Club - red nun #2"
+CSORWM,80,42.2755,-70.944833,"Hingham Bay, Quincy Yacht Club - red nun #2"
+TP-OUT,80,42.2755,-70.944833,"Hingham Bay, Quincy Yacht Club - red nun #2"
+BHWQM,77,42.2741132,-70.983783,Quincy off of Merrymount Park
+CSORWM,77,42.2741132,-70.983783,Quincy off of Merrymount Park
+BHWQM,124,42.272667,-70.897667,"Hingham Bay, Crow Point Flats"
+CSORWM,124,42.272667,-70.897667,"Hingham Bay, Crow Point Flats"
+CSORWM,125,42.2635551,-70.9469399,"Hingham/Hull Bay, Raccoon Island"
+BHWQM,116,42.251,-70.953833,"Hingham Bay Fore River, red nun #28"
+CSORWM,116,42.251,-70.953833,"Hingham Bay Fore River, red nun #28"
+TP-OUT,116,42.251,-70.953833,"Hingham Bay Fore River, red nun #28"
