@@ -17,14 +17,14 @@ mytheme <- theme_bw() +
         panel.grid.minor = element_blank(),
         axis.line.x = element_line(color="black", linewidth = 0.5),
         axis.line.y = element_line(color="black", linewidth = 0.5),
-        axis.text = element_text(color = "black", size = 16),
-        axis.title = element_text(size = 16),
-        legend.text = element_text(size = 16),
-        legend.title = element_text(size = 16),
-        strip.text = element_text(size = 16),
-        plot.title = element_text(size = 16),
-        plot.subtitle = element_text(size = 16),
-        plot.caption = element_text(size = 16),
+        axis.text = element_text(color = "black", size = 20),
+        axis.title = element_text(size = 20),
+        legend.text = element_text(size = 20),
+        legend.title = element_text(size = 20),
+        strip.text = element_text(size = 20),
+        plot.title = element_text(size = 20),
+        plot.subtitle = element_text(size = 20),
+        plot.caption = element_text(size = 20),
         panel.border = element_blank())
 
 
@@ -203,7 +203,7 @@ daily_avg_decade %>%
   # Ribbon now uses the same color as the line
   geom_ribbon(aes(ymin = AvgTemp_Lower, ymax = AvgTemp_Upper, fill = Year_Group),
               alpha = 0.5, color = NA) +
-  geom_line(linewidth = 1) +
+  geom_line(linewidth = 2) +
   scale_x_date(
     date_labels = "%b",
     date_breaks = "1 month"
@@ -228,13 +228,13 @@ daily_avg_decade %>%
   ) +
   scale_y_continuous(limits = c(0, 25)) +
   # Vertical reference lines
-  geom_vline(xintercept = as.Date(c("2025-04-27","2025-07-11")),
+  geom_vline(xintercept = as.Date(c("2025-05-03","2025-06-10")),
              color = "#33638DFF", linetype = c("dotted","dotdash"), linewidth = 2) +
-  geom_vline(xintercept = as.Date(c("2025-03-30","2025-06-14")),
+  geom_vline(xintercept = as.Date(c("2025-04-04","2025-05-13")),
              color = "#29AF7FFF", linetype = c("dotted","dotdash"), linewidth = 2) +
-  geom_vline(xintercept = as.Date(c("2025-03-06","2025-05-21")),
+  geom_vline(xintercept = as.Date(c("2025-03-12","2025-04-21")),
              color = "#DCE319FF", linetype = c("dotted","dotdash"), linewidth = 2) +
-  labs(x = "Month", y = "Average daily temperature (°C)") +
+  labs(x = "Month", y = "Mean daily temperature (°C)") +
   mytheme +
   theme(
     legend.position = c(1, 1),
@@ -242,8 +242,12 @@ daily_avg_decade %>%
     legend.background = element_rect(fill = "white", color = "white"),
     axis.text.x = element_text(angle = 45, hjust = 1)
   )
-ggsave("temp.png", width = 12, height = 8, dpi = 300, bg = "white") 
+ggsave("temp.png", width = 12, height = 8, dpi = 500, bg = "white") 
 
+# peaks
+# 2021 hatch May 3─May 24; spawn Apr 22 - May 13 (May 3); settle May 30  - June 20  (June 10)
+# 2022 hatch Apr 3─Apr 27; spawn Mar 23 - Apr 16 (Apr 4); settle Apr 20 - Jun 4  (May 13 )
+# 2023 hatch Mar 13─Apr 3; spawn Mar 2 - Mar 23 (Mar 12); settle Apr 4 - May 7  (April 21 )
 
 
 # alternate
@@ -320,10 +324,6 @@ daily_avg_decade %>%
     axis.text.x = element_text(angle = 45, hjust = 1)
   )
 
-# peaks
-# 2021 hatch May 3─May 24; spawn Apr 15 - May 10 (Apr 27); settle Jun 7 - Aug 17 (Jul 11)
-# 2022 hatch Apr 3─Apr 27; spawn Mar 16 - Apr 13 (Mar 30); settle Apr 8 - Jul 21 (Jun 14)
-# 2023 hatch Mar 13─Apr 3; spawn Feb 23 - Mar 20 (Mar 6); settle Apr 17 - Jun 27 (May 21)
 
 #### Map ####
 
